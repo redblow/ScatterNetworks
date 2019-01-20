@@ -8,6 +8,18 @@
         "chainId":"aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
       },
       {
+      "name": "AOS Mainnet",
+      "host": "mainapi.freetradechain.com",
+      "port": 80,
+      "protocol": "http",
+      "chainId": "7e11adadc5b094e5368f6708cfe4f89e352ab6f319f4682b8bac7b9166f9c37c",
+      "token": {
+        "symbol": "AOS",
+        "contract": "eosio.token",
+        "decimals": 4
+      }
+    },
+      {
         "name":"Telos Mainnet",
         "host":"api.telosfoundation.io",
         "port":443,
